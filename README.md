@@ -53,3 +53,10 @@ EDUCATION
 *   **Actions:** Identified critical security gaps in access control and incident response protocols. Authored a remediation roadmap mapping technical fixes back to specific NIST baselines.
 *   **Outcome:** Successfully reduced internal unauthorized access vulnerabilities and streamlined future audit readiness.
 *   🔗 **[View Full NIST SP 800-30 Risk Assessment Report](./nist-risk-assessment.md)**
+
+
+### 📝 Project 2: ISO/IEC 27001 Audit Simulation & Documentation Build
+*   **Objective:** Developed an Information Security Management System (ISMS) documentation framework modeled on ISO/IEC 27001 requirements.
+*   **Actions:** Designed asset management, access control, and physical security checklists tailored for remote team deployments. Built automated tracking metrics to log evidence collection.
+*   **Outcome:** Established an audit-ready compliance tracking template capable of verifying internal controls with a 100% compliance rate.
+*   🔗 **[View Full ISO/IEC 27001 Internal Audit Checklist](./iso-27001-audit.md)**
