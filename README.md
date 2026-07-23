@@ -24,7 +24,7 @@ Detail-oriented GRC Analyst and Certified Cybersecurity Specialist with over 2 y
 CORE SKILLS
 • Governance & Risk Frameworks: NIST CSF, NIST SP 800-53, ISO/IEC 27001, Risk Assessments, Gap Analysis
 • Cybersecurity Operations: Threat Detection, Incident Response, SIEM Fundamentals, Vulnerability Assessment
-• Compliance & Data Privacy: GDPR & PIPEDA Awareness, Policy Enforcement, Access Management (IAM)
+• Compliance & Data Privacy: GDPR & PIPEDA Awareness, HIPAA, Policy Enforcement, Access Management (IAM)
 • Audit & Technical Control Verification: Root Cause Analysis, Controls Testing, SLA & Compliance Management
 • GRC Tools & Infrastructure: ServiceNow GRC, OneTrust, Splunk, Microsoft 365 Compliance Center, Azure (AZ-900)
 
