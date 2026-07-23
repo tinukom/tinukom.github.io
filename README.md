@@ -32,7 +32,7 @@ CERTIFICATIONS
 • ISO/IEC 27001:2022 Lead Auditor | In Progress – Expected 2026
 • Certified in Cybersecurity (CC) – ISC2 | December 2025
 • CompTIA Security+ | May 2024
-• Certified in Governance, Risk and Compliance (CGRC) Candidate | ISC2 | In Progress – Expected 2026 
+• Certified Information Systems Auditor (CISA) | ISACA | In Progress – Expected 2026 
 
 PROFESSIONAL EXPERIENCE
 
