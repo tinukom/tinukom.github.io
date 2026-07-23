@@ -42,3 +42,14 @@ EDUCATION
 • Graduate Certificate in Network and Applications Security | University of the People | March 2024
 • Master of Science (M.Sc.) in Industrial Technology | Pittsburg State University | December 2017
 • Bachelor of Science (B.Sc.) in Statistics | Ekiti State University | August 2011
+
+
+---
+
+## 💼 Core GRC Projects & Hands-On Labs
+
+### 🛡️ Project 1: Enterprise NIST SP 800-30 Rev. 1 Risk Assessment Report
+*   **Objective:** Conducted a comprehensive risk assessment on web infrastructure to map existing security measures against the NIST SP 800-53 control framework.
+*   **Actions:** Identified critical security gaps in access control and incident response protocols. Authored a remediation roadmap mapping technical fixes back to specific NIST baselines.
+*   **Outcome:** Successfully reduced internal unauthorized access vulnerabilities and streamlined future audit readiness.
+*   🔗 **[View Full NIST SP 800-30 Risk Assessment Report](./nist-risk-assessment.md)**
