@@ -1,3 +1,20 @@
+
+
+# 👋 Hello, I'm Racheal Atinuke Adesoba
+### Cybersecurity GRC Analyst | Risk & Compliance Specialist
+📍 St. Thomas, Ontario, Canada  
+
+---
+
+## ⚡ Quick Profile
+*   🎯 **Current Focus:** Aligning enterprise web infrastructure and cloud assets with strict global security baselines.
+*   🛡️ **Core Expertise:** Risk Assessments (NIST SP 800-30), Controls Mapping (NIST SP 800-53), Framework Alignment (NIST CSF, ISO/IEC 27001), and Identity Access Management (IAM).
+*   🎓 **Credentials:** CGRC (Candidate) | ISO/IEC 27001 Lead Auditor (Completing July 2026 via Mastermind) | ISC² CC | CompTIA Security+ | M.Sc. Industrial Technology.
+
+---
+
+
+
 RACHEAL ATINUKE ADESOBA
 St. Thomas, Ontario, Canada | +1 (954) 312-8498 | tinukom@gmail.com | [https://www.linkedin.com/in/atinuke-r-adesoba-096b4168]
 
